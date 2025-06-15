@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "829026060536",
+    "project_id": "caps-457906",
+    "storage_bucket": "caps-457906.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829026060536:android:bb642385c897198e11530d",
+        "android_client_info": {
+          "package_name": "com.example.lia_phone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829026060536-q3i16quvo1cfd7gh2m8vfrl0513l55kn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lia_phone",
+            "certificate_hash": "b76fbfad52c2af2d054bc09c700419262c3fa1f8"
+          }
+        },
+        {
+          "client_id": "829026060536-f7dpc16930esthgnn97soleggvmv3o16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgyzJkd3PASGgi-5i0YNh2YVHIgObjZ84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829026060536-f7dpc16930esthgnn97soleggvmv3o16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
